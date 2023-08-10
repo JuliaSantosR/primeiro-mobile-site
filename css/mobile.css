@@ -15,7 +15,7 @@
 - Family: [Open Sans]
 - Weights: 400, 700
 
-- Mobile: 375px
+- Mobile: 480px
 - Desktop: 1440px
 
 - Font size: 18px
@@ -30,7 +30,7 @@
 }
 
 * {
-   max-width: 375px;
+   max-width: 480px;
    padding: 0;
    margin: 0;
 }
